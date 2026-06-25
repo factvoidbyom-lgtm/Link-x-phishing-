@@ -52,7 +52,7 @@ pkg install python git -y
 git clone https://github.com/factvoidbyom-lgtm/LinkX-PHISHER.git
 cd LINK-XPHISH
 python setup.py
-python link-x.py
+python LinkX-PHISHER.py
 ```
 
 ## Note:
